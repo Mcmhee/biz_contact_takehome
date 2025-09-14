@@ -9,20 +9,20 @@ String companyModelsToJson(List<CompanyModels> data) =>
     json.encode(List<dynamic>.from(data.map((x) => x.toJson())));
 
 class CompanyModels {
-  final String? bizName;
+  final String? businessName;
   final String? location;
   final String? contactNo;
 
-  CompanyModels({this.bizName, this.location, this.contactNo});
+  CompanyModels({this.businessName, this.location, this.contactNo});
 
   factory CompanyModels.fromJson(Map<String, dynamic> json) => CompanyModels(
-    bizName: json["bizName"],
+    businessName: json["businessName"],
     location: json["location"],
     contactNo: json["contactNo"],
   );
 
   Map<String, dynamic> toJson() => {
-    "bizName": bizName,
+    "businessName": businessName,
     "location": location,
     "contactNo": contactNo,
   };

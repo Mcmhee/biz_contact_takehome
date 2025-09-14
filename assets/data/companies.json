@@ -1,12 +1,12 @@
 [
-  { "bizName": "Glow & Go Salon", "location": "Atlanta", "contactNo": "+1 404 234 5678" },
-  { "bizName": "Northside Hardware", "location": "Chicago", "contactNo": "+1 312 555 0199" },
-  { "bizName": "Lambda Consulting", "location": "San Francisco", "contactNo": "+1 415 555 0123" },
-  { "bizName": "Evergreen Bookstore", "location": "Seattle", "contactNo": "+1 206 555 0147" },
-  { "bizName": "Metro Fitness", "location": "New York", "contactNo": "+1 212 555 0110" },
-  { "bizName": "Sunrise Café", "location": "Austin", "contactNo": "+1 512 555 0175" },
-  { "bizName": "TechHive Solutions", "location": "Boston", "contactNo": "+1 617 555 0133" },
-  { "bizName": "Harmony Yoga Studio", "location": "Denver", "contactNo": "+1 303 555 0189" },
-  { "bizName": "Golden Gate Florist", "location": "San Francisco", "contactNo": "+1 415 555 0198" },
-  { "bizName": "Lakeside Dental", "location": "Chicago", "contactNo": "+1 312 555 0144" }
+  { "businessName": "Glow & Go Salon", "location": "Atlanta", "contactNo": "+1 404 234 5678" },
+  { "businessName": "Northside Hardware", "location": "Chicago", "contactNo": "+1 312 555 0199" },
+  { "businessName": "Lambda Consulting", "location": "San Francisco", "contactNo": "+1 415 555 0123" },
+  { "businessName": "Evergreen Bookstore", "location": "Seattle", "contactNo": "+1 206 555 0147" },
+  { "businessName": "Metro Fitness", "location": "New York", "contactNo": "+1 212 555 0110" },
+  { "businessName": "Sunrise Café", "location": "Austin", "contactNo": "+1 512 555 0175" },
+  { "businessName": "TechHive Solutions", "location": "Boston", "contactNo": "+1 617 555 0133" },
+  { "businessName": "Harmony Yoga Studio", "location": "Denver", "contactNo": "+1 303 555 0189" },
+  { "businessName": "Golden Gate Florist", "location": "San Francisco", "contactNo": "+1 415 555 0198" },
+  { "businessName": "Lakeside Dental", "location": "Chicago", "contactNo": "+1 312 555 0144" }
 ]
